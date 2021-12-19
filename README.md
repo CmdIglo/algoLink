@@ -1,6 +1,6 @@
 # algoLink
 
-###Making AI accessible
+### Making AI accessible
 
 ## What is algoLink?
 algoLink is a webservice for hosting, publishing and testing your datasets.
