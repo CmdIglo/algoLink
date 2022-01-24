@@ -300,10 +300,11 @@ h6 {
 
 #getstarted {
     border-radius: 0.5em;
+    box-shadow: 5px 5px 10px rgba(129, 145, 179, 0.6);
 }
 
 #getstarted:hover {
-    box-shadow: 5px 5px 10px #8191B3;
+    box-shadow: 5px 5px 10px 3px rgba(129, 145, 179, 1);
 }
 
 /* COLORS */
