@@ -31,18 +31,18 @@ app.get("/", (req, res) => {
  * })
  */
 
-//authentication shit -> Auth0
+//authentication stuff -> Auth0
 app.get("/login", (req, res) => {
     res.sendFile(path.join(__dirname, '/app.html'))
 })
 
-//database shit
+//database stuff
 //needs a sub-site, where you can upload a file -> Python process with file, saving file with firebase
 app.get("/documents", (req, res) => {
     res.sendFile(path.join(__dirname, '/app.html'))
 })
 
-//authentication plus database shit -> DB shit with Python and firebase
+//authentication plus database stuff -> DB stuff with Python and firebase
 app.get("/profile", (req, res) => {
     res.sendFile(path.join(__dirname, '/app.html'))
 })
@@ -51,7 +51,7 @@ app.get("/signup", (req, res) => {
     res.sendFile(path.join(__dirname, '/app.html'))
 })
 
-//authentication shit
+//authentication stuff
 //
 //FIX:
 //currently not suited for use with login form
