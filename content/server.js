@@ -53,7 +53,7 @@ app.get("/signup", (req, res) => {
 
 //authentication stuff
 //
-//FIX:
+//Reminder:
 //currently not suited for use with login form
 //because the function checks for name and last name, so that
 //if you login with only your email and password the function
