@@ -97,7 +97,7 @@ html file.
    <!-- Imprint -->
    <div class="container black center opacity top-bottom64">
      <h1 class="margin xlarge">Imprint</h1>
-     <p style="font-family: Montserrat">Copyright: Maxwell Leu CEO</p>
+     <p style="font-family: Montserrat">Copyright:</p>
    </div>
    <!-- Contacts -->
    <footer class="container top-bottom64 center opacity">  
