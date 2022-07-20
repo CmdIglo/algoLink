@@ -1,0 +1,17 @@
+.add-btn {
+    border:2px solid black;
+    border-radius:100%;
+    font-size:3em;
+    padding:.25em;
+    padding-top:0;
+    padding-bottom:0;
+    right:0;
+    bottom:0;
+    position:fixed;
+    margin:.5em;
+    color:green;
+}
+
+.add-btn:hover {
+    font-size:10em;
+}

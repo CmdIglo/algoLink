@@ -38,7 +38,7 @@ app.get("/login", (req, res) => {
 
 //database stuff
 //needs a sub-site, where you can upload a file -> Python process with file, saving file with firebase
-app.get("/documents", (req, res) => {
+app.get("/files", (req, res) => {
     res.sendFile(path.join(__dirname, '/app.html'))
 })
 
